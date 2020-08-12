@@ -159,8 +159,8 @@ print  """
 And Continue
 \033[1;91m•──────────────────────────•
  """
-CorrectUsername = "kalilinux"
-CorrectPassword = "Facebook"
+CorrectUsername = "Pak"
+CorrectPassword = "Anonymous"
 
 loop = 'true'
 while (loop == 'true'):
