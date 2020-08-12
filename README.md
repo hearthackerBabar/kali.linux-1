@@ -18,7 +18,7 @@ pip2 install mechanize
 
 git clone https://github.com/hearthackerBabar/kali.linux-1/
 
-cd Huntter
+cd kali.linux-1
 
 python2 Linux-1.py
 
